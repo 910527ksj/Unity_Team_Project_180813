@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1033592219387028028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1033592219387028003}
+  - component: {fileID: 1033592219387028002}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1033592219387028003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1033592219387028028}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1033592219387028002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1033592219387028028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 990f8af021cdf0e43b313a47cd1a92fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  players: 0
+  playerObj:
+  - {fileID: 1026403171, guid: 25862744baff36047b076b3ed957bf2e, type: 3}
+  - {fileID: 3877422328240857878, guid: d7a841841d7eb9947aeab4edce32b7ea, type: 3}
+  - {fileID: 2351332513109316655, guid: 7546c83749ae190488e0d85e328f640f, type: 3}
+  - {fileID: 8095268564699332547, guid: 15eeefc51fcc00c488eda100a114aa72, type: 3}
+  StageSlotObj: {fileID: 0}
+  stageClearResultWindow: {fileID: 0}
+  stageNameTxt: {fileID: 0}
+  stageStartTxt: {fileID: 0}
+  playTime_Txt: {fileID: 0}
+  acquireGold_Txt: {fileID: 0}
+  mobKiiedCnt_Txt: {fileID: 0}
+  deadWindow: {fileID: 0}
+  totalPlayTime: 0
+  totalGold: 0
+  totalMobKillCnt: 0
+  minute: 0
+  hour: 0
+  _stageValue: 0
+  _stageStateValue: 0
+  index: 0
+  chr_Name_kr: 
+  chr_Name: 
+  hp: 0
+  mp: 0
+  atk: 0
+  def: 0
+  movementSpeed: 0
+  bossClear: 0
+  std: 0
+  worldIndex: 0
+  stageIndex: 0
+  worldName_Kr: 
+  worldName: 
+  properLevel: 0
+  stageDifficulty: 0
+  rewardGold: 0
+  isGameover: 0
+  incontrol: {fileID: 0}
+  gamedata: {fileID: 0}
+  onetime: 0

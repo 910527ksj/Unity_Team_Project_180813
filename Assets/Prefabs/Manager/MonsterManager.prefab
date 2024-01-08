@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1596261310576409465
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1596261310576409467}
+  - component: {fileID: 1596261310576409466}
+  m_Layer: 0
+  m_Name: MonsterManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1596261310576409467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1596261310576409465}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.69396555, y: 1.1053319, z: -17.82999}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1596261310576409466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1596261310576409465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a23506d3e2ed9034cad2a6e7f666a19c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jsonData: {fileID: 4900000, guid: bdc886a82a4192e40a8ca00019c0b3cd, type: 3}
+  jsonData02: {fileID: 4900000, guid: 3efb1740413130e4e93a266c27ae90b4, type: 3}
+  mob_LV: 0
+  mob_EXP: 0
+  monster_Index: 0
+  monster_Name: 
+  monster_Type: 0
+  attack_Range: 0
+  skill01_Damage: 0
+  skill02_Damage: 0
+  skill03_Damage: 0
+  monster_MoveSpeed: 0
+  rotation_Speed: 0
+  attack_Speed: 0
+  monsterLV: 0
+  monster_HP: 0
+  score: 0

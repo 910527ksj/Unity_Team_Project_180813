@@ -1,0 +1,58 @@
+[
+ {
+   "Index": 1,
+   "Chr_Name_kr": "검사",
+   "Chr_Name": "TEXT_CHR_NAME_SWORDMAN",
+   "HP": 100,
+   "MP": 100,
+   "ATK": 5,
+   "DEF": 5,
+   "MovementSpeed": 5,
+   "PHP_Inc_Int": 30,
+   "PMP_Inc_Int": 10,
+   "PATK_Inc_Int": 3,
+   "PDEF_Inc_Int": 0
+ },
+ {
+   "Index": 2,
+   "Chr_Name_kr": "궁사",
+   "Chr_Name": "TEXT_SKILL_NAME_ARCHER",
+   "HP": 80,
+   "MP": 150,
+   "ATK": 3,
+   "DEF": 3,
+   "MovementSpeed": 5,
+   "PHP_Inc_Int": 30,
+   "PMP_Inc_Int": 10,
+   "PATK_Inc_Int": 3,
+   "PDEF_Inc_Int": 0
+ },
+ {
+   "Index": 3,
+   "Chr_Name_kr": "격투사",
+   "Chr_Name": "TEXT_SKILL_NAME_FIGHTER",
+   "HP": 120,
+   "MP": 120,
+   "ATK": 6,
+   "DEF": 6,
+   "MovementSpeed": 5,
+   "PHP_Inc_Int": 30,
+   "PMP_Inc_Int": 10,
+   "PATK_Inc_Int": 3,
+   "PDEF_Inc_Int": 0
+ },
+ {
+   "Index": 4,
+   "Chr_Name_kr": "사제",
+   "Chr_Name": "TEXT_SKILL_NAME_CLERIC",
+   "HP": 90,
+   "MP": 200,
+   "ATK": 4,
+   "DEF": 4,
+   "MovementSpeed": 5,
+   "PHP_Inc_Int": 30,
+   "PMP_Inc_Int": 10,
+   "PATK_Inc_Int": 3,
+   "PDEF_Inc_Int": 0
+ }
+]

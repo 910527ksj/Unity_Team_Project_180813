@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5178416046663441695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5242480883676626701}
+  - component: {fileID: 5894164727891644116}
+  m_Layer: 0
+  m_Name: InventoryManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5242480883676626701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5178416046663441695}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.072778, y: 0.21807414, z: 0.20507812}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5894164727891644116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5178416046663441695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad0b0636834ddf44967ba00a89d3465, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ranManager: {fileID: 0}
+  jsonArmorIconData: {fileID: 4900000, guid: bcc5edcadd0175348aee477ea11cf82d, type: 3}
+  jsonWeaponIconData: {fileID: 4900000, guid: 89e4faa83152f634d863eec29763c28b, type: 3}
+  m_lItemImageNames: []
+  m_lItemNames: []
+  m_lItemPrice: 
+  weaponBagChk: {fileID: 0}
+  armorBagChk: {fileID: 0}
+  accessoryBagChk: {fileID: 0}
+  nullBagChk: {fileID: 0}
+  weaponBag: {fileID: 0}
+  armorBag: {fileID: 0}
+  accessoryBag: {fileID: 0}
+  nullBag: {fileID: 0}
+  m_scrollView: {fileID: 0}
+  equipItemPopup: {fileID: 0}
+  bagItemPopup: {fileID: 0}
+  sellPopup: {fileID: 0}
+  testInstansBox: {fileID: 0}
+  testChk: {fileID: 0}
+  tsetRandomBox: {fileID: 0}
+  m_gObjWeaponSampleItem: {fileID: 0}
+  m_gObjShieldSampleItem: {fileID: 0}
+  m_gObjHelmetSampleItem: {fileID: 0}
+  m_gObjGloveSampleItem: {fileID: 0}
+  m_gObjPantsSampleItem: {fileID: 0}
+  m_gObjRingSampleItem: {fileID: 0}
+  m_gObjArmorSampleItem: {fileID: 0}
+  m_gObjbootsSampleItem: {fileID: 0}
+  m_WeaponBagItems: []
+  m_AccessoryBagItems: []
+  m_ArmorBagItems: []
+  m_NullBagItems: []
+  equipBtn: {fileID: 0}
+  useBtn: {fileID: 0}
+  sellPriceLabel: {fileID: 0}
+  weaponSlot: {fileID: 0}
+  m_WeaponSlot: []
+  armorSlot: {fileID: 0}
+  m_ArmorSlot: []
+  pantsSlot: {fileID: 0}
+  m_PantsSlot: []
+  ShieldSlot: {fileID: 0}
+  m_ShieldSlot: []
+  helmetSlot: {fileID: 0}
+  m_HelmetSlot: []
+  gloveSlot: {fileID: 0}
+  m_GloveSlot: []
+  ringSlot: {fileID: 0}
+  m_RingSlot: []
+  bootsSlot: {fileID: 0}
+  m_BootsSlot: []
+  invenPopUpItemName: {fileID: 0}
+  slotPopUpItemName: {fileID: 0}
+  invenPopUpItemImage: {fileID: 0}
+  slotPopUpItemImage: {fileID: 0}
+  sellPopUpItemImage: {fileID: 0}
+  invenPopUpItemGrade: {fileID: 0}
+  slotPopUpItemGrade: {fileID: 0}
+  sellPopUpItemGrade: {fileID: 0}
+  invenPopUpItemOption:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  slotPopUpItemOption:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  attackValue: {fileID: 0}
+  defenceValue: {fileID: 0}
+  hpValue: {fileID: 0}
+  mpValue: {fileID: 0}

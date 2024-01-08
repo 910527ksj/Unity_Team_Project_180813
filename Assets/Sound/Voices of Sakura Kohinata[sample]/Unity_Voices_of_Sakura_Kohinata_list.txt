@@ -1,0 +1,58 @@
+## paraphrase
+
+#battle voice
+01.attack1 : shout
+02.attack2 : shout
+03.attack3 : shout
+04.attack4 : shout
+05.damage1 : shout
+06.damage2 : shout
+07.special attack1 : Go!
+08.win : Yeah!
+09.sigh : shout
+10.call : Hey!
+11.provoke : Bring it on!
+12.shout1 : shout
+13.shout2 : hmmm
+14.shout3 : shout
+15.shout4 : shout
+16.shout5 : shout
+17.shout6 : shout
+18.shout7 : shout
+19.shout8 : shout
+20.shout9 : shout
+21.shout10 : shout
+22.damage3 : shout
+23.damage4 : shout
+24.shout11 : shout
+25.shout12 : shout
+26.chuckle : he he he!
+27.frustrate : Damn it!
+28.signature phrase : Finish with this!
+29.shout13 : shout
+30.damage5 : shout
+31.signature phrase2 : Here we go!
+32.win2 : Yeah!
+
+#female voice
+01.bluff : I'm not scared. I think that it's dangerous.
+02.good-bye : Here I must leave you. Good-bye!
+03.thankyou : Thank you!
+04.where : Where am I? Why am I here?
+05.who : Who are you ?
+06.why : How come you to do it?
+07.You're welcome : You're welcome.
+08.iknow : Is that so?(apathy)
+09.not interest : I'm not interested in it.
+
+#moe voice
+01.bluff : wha..... !!! I...It was not for ya!!
+02.brother : My big bro.
+03.idont hear : ah-,ah-, I can't hear anything.
+04.lie : You're lying!
+05.love : I love you.(in a coquettish tone)
+06.suprised : Is that true?
+07.when : What time are you going back home today?
+08.come here : Oh, it's all right. Don't worry. Come here!
+09.good-bey : I know. I'm out of here. Good-bye.
+

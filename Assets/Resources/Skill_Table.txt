@@ -1,0 +1,45 @@
+﻿[
+	{
+		"Index": "1",
+		"Skill_Name_Kr": "스매쉬",
+		"Skill_Name": "TEXT_SKILL_NAME_SMASH ",
+		"CoolDown": "3",
+		"Skill_PlayTime": "0",
+		"Type": "Active",
+		"Min_Lv": "1",
+		"Max_Lv": "50",
+		"Atk_Dmg": "30",
+		
+		
+	},
+	{
+		"Index": "2",
+		"Skill_Name_Kr": "레이지 대쉬",
+		"Skill_Name": "TEXT_SKILL_NAME_RAGEDASH",
+		"CoolDown": "3",
+		"Skill_PlayTime": "0",
+		"Type": "Active",
+		"Min_Lv": "1",
+		"Max_Lv": "50",
+		"Atk_Dmg": "20",
+		
+	
+		
+	},
+	{
+		"Index": "3",
+		"Skill_Name_Kr": "그라운드뱅",
+		"Skill_Name": "TEXT_SKILL_NAME_GROUNDBANG",
+		"CoolDown": "3",
+		"Skill_PlayTime": "6",
+		"Type": "Active",
+		"Min_Lv": "1",
+		"Max_Lv": "50",
+		"Atk_Dmg": "50",
+		
+	},
+	
+	{
+		"Index": ""
+	}
+]
